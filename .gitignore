@@ -1,0 +1,7 @@
+Yunit3X_MainMCU/Builds/
+Yunit3X_MainMCU/mbed/
+
+Yunit3X_SubMCU/Builds/
+Yunit3X_SubMCU/mbed/
+
+*.xcodeproj
